@@ -1,7 +1,6 @@
 # elasticsearch
-Elasticsearch Study
 
-### CentOS에서 yum으로 Elasticsearch & kibana 설치하기
+### 1. CentOS에서 yum으로 Elasticsearch & kibana 설치하기
 1. PGP key 설치
 ```bash
 $ sudo rpm --import https://artifacts.elastic.co/GPG-KEY-elasticsearch
